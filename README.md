@@ -4,11 +4,16 @@
 
 Exploratory data analysis and visualization of a small geospatial dataset with geoviews.
 
+![An image showing the Sites of Community Importance in Tuscany, created with GeoViews](https://raw.githubusercontent.com/jackdbd/aree-protette/master/screenshots/sites-of-community-importance-in-tuscany.png "Sites of Community Importance in Tuscany.")
+
 
 ## Data
-Source: Regione Toscana – [Siti di Interesse Regionale, Siti di Importanza Comunitaria, Zone di Protezione Speciale](http://dati.toscana.it/dataset/sir) (Last update March 2016).
 
-The dataset is released under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license.
+You will need to download these datasets to run the noteook.
+
+Regione Toscana – [Limiti amministrativi](http://dati.toscana.it/dataset/amb-amm) (License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
+
+Regione Toscana – [Siti di Interesse Regionale, Siti di Importanza Comunitaria, Zone di Protezione Speciale](http://dati.toscana.it/dataset/sir) (License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
 
 
 ## Run the notebook with Binder
