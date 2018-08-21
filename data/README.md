@@ -7,7 +7,7 @@ You will need to download these datasets to reproduce the analysis.
 
 Steps:
 
-[Link](http://dati.toscana.it/dataset/amb-amm/resource/e1c39362-b0cd-4cf5-a1ec-55f7aa000f76) -> Vai alla risorsa -> Scarica il Dataset -> Extract `ambiti_amministrativi.zip` (I know, it's confusing, it doesn't have the same name) -> Rename the extracted folder as `limiti_amministrativi`.
+[Link](http://dati.toscana.it/dataset/amb-amm/resource/e1c39362-b0cd-4cf5-a1ec-55f7aa000f76) -> Vai alla risorsa -> Scarica il Dataset -> Extract `ambiti_amministrativi.zip` -> Rename the extracted folder as `limiti_amministrativi`.
 
 For this analysis, you will need `am_prov_multipart.shp`, `am_prov_multipart.shx`, `am_prov_multipart.dbf`.
 
